@@ -8,16 +8,21 @@
     tools:context=".MainActivity">
 
     <Button
-        android:background="#ffffff"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="傻逼东西"/>
-    
-        <Button
         android:background="#ffffff"
+        android:text="傻逼东西" />
+
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="傻逼东西"/>
-    
+        android:background="#ffffff"
+        android:text="傻逼东西" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="nimabbd"
+        />
 
 </LinearLayout>
