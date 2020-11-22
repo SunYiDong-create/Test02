@@ -47,13 +47,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="第一个"/>
-<<<<<<< HEAD
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="第二个"/>
-=======
->>>>>>> 380faeacb3bc7c1c8e38ed552e7d315917a8db4d
+
 
     <TextView
         android:layout_width="wrap_content"
